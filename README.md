@@ -53,19 +53,17 @@ Fork this repository and clone it to your local machine.
 
 Create a new branch for your changes:
 
-bash
-Copy code
+```bash
 git checkout -b feature/your-feature-name
+```
 Make your changes and commit them with descriptive commit messages.
 
 Push your changes to your forked repository:
 
-bash
-Copy code
+```bash
 git push origin feature/your-feature-name
+```
 Open a pull request against the original repository.
-
-Your pull request will be reviewed, and once approved, it will be merged into the main branch.
 
 # License
 This sample project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license.
