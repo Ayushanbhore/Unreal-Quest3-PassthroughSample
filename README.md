@@ -46,32 +46,11 @@ https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 # Usage
 Follow these steps to run the sample project and explore the integration of Passthrough, Depth API, and Mesh API:
 
-1. Connect your Oculus Quest 3 device to your development machine using a Link ( Link Cable Recommended over the Air Link).
+1. Connect your Oculus Quest 3 device to your Development machine using a Link ( Link Cable Recommended over the Air Link).
 
-2. Build and deploy the project to your Oculus Quest 3 device using Unreal Engine.
+2. Build and Deploy the project to your Oculus Quest 3 device using Unreal Engine.
 
-3. Put on your Oculus Quest 3 headset and experience the augmented reality environment created using Passthrough, Depth API, and Mesh API.
-
-4. Navigate through the application and observe how the AR elements interact with the real-world environment.
-
-# Contributing
-We welcome contributions from the community! If you would like to contribute to this project, please follow these steps:
-
-Fork this repository and clone it to your local machine.
-
-Create a new branch for your changes:
-
-```bash
-git checkout -b feature/your-feature-name
-```
-Make your changes and commit them with descriptive commit messages.
-
-Push your changes to your forked repository:
-
-```bash
-git push origin feature/your-feature-name
-```
-Open a pull request against the original repository.
+3. Put on your Oculus Quest 3 headset and experience the augmented reality environment created using Passthrough.
 
 # License
 This sample project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license.
