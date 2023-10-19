@@ -20,10 +20,10 @@ Prerequisites
 Before using this sample project, make sure you have the following prerequisites installed and set up:
 
 # Prerequisites
-Unreal Engine (version 5.1.1 or later)
-Oculus Integration Plugin for Unreal Engine
-Meta Quest 3 device
-Meta Developer Account
+- Unreal Engine (version 5.1.1 or later)
+- MetaXR Plugin for Unreal Engine (51.0 , 53.0 , 54.0)
+- Meta Quest 3 Device or Meta Quest Pro Device
+- Meta Developer Account
 
 # Installation
 1. Clone this repository to your local machine:
