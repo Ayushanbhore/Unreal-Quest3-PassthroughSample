@@ -40,7 +40,7 @@ git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 ```
 4. Run the project in Unreal Engine and Set these settings in the Plugins-> MetaXR -> Mobile Section for best output
-  ![](images/setting.JPG)
+  ![](Content/Static/Images/Mobile Setting.png)
 
 # Usage
 Follow these steps to run the sample project and explore the integration of Passthrough, Depth API, and Mesh API:
