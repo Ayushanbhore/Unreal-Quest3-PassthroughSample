@@ -39,7 +39,8 @@ git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 ``` bash
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 ```
-4. Run the project in Unreal Engine and Set these settings in the Plugins-> MetaXR -> Mobile Section for best output
+4. Launch Unreal Engine and Set these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section
+   
   ![](Images/MobileSettings.png)
 
 # Usage
