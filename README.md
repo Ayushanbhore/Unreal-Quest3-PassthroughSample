@@ -26,14 +26,14 @@ Meta Quest 3 device
 Meta Developer Account
 
 # Installation
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
-'''bash
+```bash
 git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
-'''
-Open the project in Unreal Engine.
+```
+2. Open the project in Unreal Engine.
 
-Configure Unreal Engine to use the Oculus Integration Plugin for Oculus Quest 3.
+3. Configure Unreal Engine to use the Oculus Integration Plugin for Oculus Quest 3.
 
 # Usage
 Follow these steps to run the sample project and explore the integration of Passthrough, Depth API, and Mesh API:
