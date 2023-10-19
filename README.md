@@ -28,9 +28,9 @@ Meta Developer Account
 # Installation
 Clone this repository to your local machine:
 
-bash
-Copy code
+'''bash
 git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
+'''
 Open the project in Unreal Engine.
 
 Configure Unreal Engine to use the Oculus Integration Plugin for Oculus Quest 3.
