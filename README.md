@@ -1,6 +1,6 @@
 # Unreal-Quest3-PassthroughSample
 
-This repository contains a sample Unreal Engine project demonstrating how to integrate and utilize the Passthrough, Depth API, and Mesh API for the latest Oculus Quest 3 device. This project serves as a reference for developers looking to create immersive augmented reality experiences using Unreal Engine on the Oculus Quest 3 platform.
+This repository contains a sample Unreal Engine project demonstrating how to integrate and utilize the Passthrough, Depth API, and Mesh API for the latest Oculus Quest 3 device. This project serves as a reference for developers looking to create immersive Augmented Reality / Mixed Reality Experiences using Unreal Engine on the Oculus Quest 3 platform.
 
 Table of Contents
 - [Overview](#overview)
@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/unreal-oculus-quest3-ar-sample.git
+git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 Open the project in Unreal Engine.
 
 Configure Unreal Engine to use the Oculus Integration Plugin for Oculus Quest 3.
