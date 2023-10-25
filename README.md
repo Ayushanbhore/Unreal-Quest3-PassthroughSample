@@ -43,6 +43,7 @@ https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 4. It is recommended to place the MetaXR Plugin in the Marketplace Folder inside your Unreal Engine Directory
 
 5. Launch Unreal Engine and Make Sure to Tick these Plugins
+ ![](Images/D.png)
 
 
 5. Copy these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section of you Unreal Engine
