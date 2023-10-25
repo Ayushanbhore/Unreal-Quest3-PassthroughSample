@@ -35,19 +35,22 @@ git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 
 3. Download the MetaXR Plugin for your Engine 
 
-   Preferably - 54.0 Version
+-> Preferably - 54.0 Version
 ``` bash
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 ```
 
 4. It is recommended to place the MetaXR Plugin in the Marketplace Folder inside your Unreal Engine Directory
 
-5. Launch Unreal Engine and Make Sure to Tick these Plugins
- ![](Images/D.png)
+5. Launch Unreal Engine and Make Sure to Tick these Plugins in the Plugins Section
+
+ -> Please Uncheck Oculus VR Plugin or it may cause issues 
+   ![](Images/D.png)
 
 
-5. Copy these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section of you Unreal Engine
+7. Copy these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section of you Unreal Engine
    
+  
   ![](Images/MobileSettings.png)
 
 # Usage
