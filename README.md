@@ -33,13 +33,19 @@ git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 ```
 2. Open the project in Unreal Engine. Works Best with Unreal Engine 5.1.1 and later
 
-3. Download the MetaXR Plugin for your Engine
+3. Download the MetaXR Plugin for your Engine 
 
    Preferably - 54.0 Version
 ``` bash
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 ```
-4. Launch Unreal Engine and Set these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section
+
+4. It is recommended to place the MetaXR Plugin in the Marketplace Folder inside your Unreal Engine Directory
+
+5. Launch Unreal Engine and Make Sure to Tick these Plugins
+
+
+5. Copy these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section of you Unreal Engine
    
   ![](Images/MobileSettings.png)
 
